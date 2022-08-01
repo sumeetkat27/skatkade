@@ -1,0 +1,23 @@
+{
+  "name": "skatkade",
+  "version": "1.0.0",
+  "description": "this is docker application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeetkat27/skatkade.git"
+  },
+  "author": "sumeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumeetkat27/skatkade/issues"
+  },
+  "homepage": "https://github.com/sumeetkat27/skatkade#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
